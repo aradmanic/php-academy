@@ -19,4 +19,10 @@ git config user.email example@gmail.com
 git add .
 git commit -m "comment"
 git remote add origin htts://github.com/aradmanic/php-academy.php
-git push -u origin master (samo prvi put, svaki sljedeÄ‡i ide samo git push)
+git push -u origin master (samo prvi put, svaki sljedeæi ide samo git push
+
+Steps to remove directory
+
+git rm -r --cached FolderName
+git commit -m "Removed folder from repository"
+git push origin master)
