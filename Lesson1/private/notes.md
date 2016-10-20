@@ -19,4 +19,4 @@ git config user.email example@gmail.com
 git add .
 git commit -m "comment"
 git remote add origin htts://github.com/aradmanic/php-academy.php
-git push -u origin master
+git push -u origin master (samo prvi put, svaki sljedeći ide samo git push)
